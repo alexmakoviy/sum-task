@@ -5,4 +5,4 @@ Solution #1: calculating the sum from any .txt file:
 
 
 Solution #2: calculating the sum from default numbers.txt
-1. Run the Main class
+1. Run the Main.java
